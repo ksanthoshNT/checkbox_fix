@@ -209,7 +209,7 @@ def detect_boxes(img =None , image_path =None,roi = None):
     return post_process(boxes_result,ocr_coords_lst)
 
 if __name__ == '__main__':
-    image_path = '/home/data_science/project_files/santhosh/checkbox/client_code/trade_finance_structure_document/src/main/checkbox_detection/InputImages/scblcapplication_1.png'
+    image_path = '/home/data_science/project_files/santhosh/checkbox_fix/client_code/trade_finance_structure_document/src/main/checkbox_detection/InputImages/scblcapplication_1.png'
     response = detect_boxes(image_path=image_path)
     with open('result.json', 'w') as f:
         json.dump(response, f, indent=2)

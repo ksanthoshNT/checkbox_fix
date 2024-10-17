@@ -1,0 +1,146 @@
+{
+  "box_0": {
+    "coordinates": [
+      141,
+      335,
+      167,
+      358
+    ],
+    "ischecked": false
+  },
+  "box_4": {
+    "coordinates": [
+      242,
+      1581,
+      268,
+      1604
+    ],
+    "ischecked": false
+  },
+  "box_6": {
+    "coordinates": [
+      242,
+      1693,
+      268,
+      1716
+    ],
+    "ischecked": false
+  },
+  "box_13": {
+    "coordinates": [
+      318,
+      567,
+      343,
+      589
+    ],
+    "ischecked": false
+  },
+  "box_14": {
+    "coordinates": [
+      429,
+      136,
+      479,
+      170
+    ],
+    "ischecked": false
+  },
+  "box_15": {
+    "coordinates": [
+      465,
+      1469,
+      490,
+      1492
+    ],
+    "ischecked": false
+  },
+  "box_16": {
+    "coordinates": [
+      465,
+      1525,
+      490,
+      1548
+    ],
+    "ischecked": false
+  },
+  "box_17": {
+    "coordinates": [
+      486,
+      567,
+      512,
+      589
+    ],
+    "ischecked": false
+  },
+  "box_18": {
+    "coordinates": [
+      651,
+      1469,
+      676,
+      1492
+    ],
+    "ischecked": false
+  },
+  "box_19": {
+    "coordinates": [
+      651,
+      1525,
+      676,
+      1548
+    ],
+    "ischecked": false
+  },
+  "box_22": {
+    "coordinates": [
+      655,
+      567,
+      680,
+      589
+    ],
+    "ischecked": false
+  },
+  "box_24": {
+    "coordinates": [
+      1120,
+      1162,
+      1146,
+      1185
+    ],
+    "ischecked": false
+  },
+  "box_25": {
+    "coordinates": [
+      1120,
+      1231,
+      1146,
+      1254
+    ],
+    "ischecked": false
+  },
+  "box_26": {
+    "coordinates": [
+      1121,
+      736,
+      1146,
+      759
+    ],
+    "ischecked": false
+  },
+  "box_32": {
+    "coordinates": [
+      1339,
+      736,
+      1364,
+      759
+    ],
+    "ischecked": false
+  },
+  "box_35": {
+    "coordinates": [
+      1423,
+      1090,
+      1448,
+      1113
+    ],
+    "ischecked": false
+  }
+}

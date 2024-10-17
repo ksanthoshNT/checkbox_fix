@@ -4,7 +4,7 @@
 PYTHON_PATH="/home/data_science/project_files/santhosh/mainenv/bin/python"
 
 # Set the path to your project directory
-PROJECT_DIR="/home/ntlpt59/Documents/checkbox"
+PROJECT_DIR="/home/data_science/project_files/santhosh/checkbox_fix"
 
 # Change to the project directory
 cd "$PROJECT_DIR"
